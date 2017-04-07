@@ -1,2 +1,3 @@
 this is a firstdemo.txt
 hello world!
+hello
